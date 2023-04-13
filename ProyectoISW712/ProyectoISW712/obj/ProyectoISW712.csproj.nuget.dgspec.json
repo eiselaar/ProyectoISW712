@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EMI\\Documents\\3. CUATRI 1\\Ingeneria de Sof ll\\ProyectoISW712\\ProyectoISW712\\ProyectoISW712.csproj": {}
+    "C:\\Users\\EMI\\Documents\\3. CUATRI 1\\Ingeneria de Sof ll\\PROYECTO\\ProyectoISW712\\ProyectoISW712\\ProyectoISW712.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EMI\\Documents\\3. CUATRI 1\\Ingeneria de Sof ll\\ProyectoISW712\\ProyectoISW712\\ProyectoISW712.csproj": {
+    "C:\\Users\\EMI\\Documents\\3. CUATRI 1\\Ingeneria de Sof ll\\PROYECTO\\ProyectoISW712\\ProyectoISW712\\ProyectoISW712.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EMI\\Documents\\3. CUATRI 1\\Ingeneria de Sof ll\\ProyectoISW712\\ProyectoISW712\\ProyectoISW712.csproj",
+        "projectUniqueName": "C:\\Users\\EMI\\Documents\\3. CUATRI 1\\Ingeneria de Sof ll\\PROYECTO\\ProyectoISW712\\ProyectoISW712\\ProyectoISW712.csproj",
         "projectName": "ProyectoISW712",
-        "projectPath": "C:\\Users\\EMI\\Documents\\3. CUATRI 1\\Ingeneria de Sof ll\\ProyectoISW712\\ProyectoISW712\\ProyectoISW712.csproj",
+        "projectPath": "C:\\Users\\EMI\\Documents\\3. CUATRI 1\\Ingeneria de Sof ll\\PROYECTO\\ProyectoISW712\\ProyectoISW712\\ProyectoISW712.csproj",
         "packagesPath": "C:\\Users\\EMI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EMI\\Documents\\3. CUATRI 1\\Ingeneria de Sof ll\\ProyectoISW712\\ProyectoISW712\\obj\\",
+        "outputPath": "C:\\Users\\EMI\\Documents\\3. CUATRI 1\\Ingeneria de Sof ll\\PROYECTO\\ProyectoISW712\\ProyectoISW712\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\EMI\\AppData\\Roaming\\NuGet\\NuGet.Config",
